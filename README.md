@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil de GitHub - [Tu Nombre]</title>
+  <title>Perfil de GitHub - Ignacio Palominos</title>
 </head>
 <body>
-  <h1>¡Hola! 👋 Soy [Tu Nombre]</h1>
+  <h1>¡Hola! 👋 Soy Ignacio Palominos</h1>
 
   <p>Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y la tecnología, y me encanta explorar nuevas ideas y desafíos. Aquí encontrarás una variedad de proyectos en los que he estado trabajando y algunas contribuciones a proyectos de código abierto.</p>
 
