@@ -1,56 +1,41 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil de GitHub - Ignacio Palominos</title>
-</head>
-<body>
-  <h1>¡Hola! 👋 Soy Ignacio Palominos</h1>
+# ¡Hola! 👋 Soy Ignacio Palominos
 
-  <p>Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y la tecnología, y me encanta explorar nuevas ideas y desafíos. Aquí encontrarás una variedad de proyectos en los que he estado trabajando y algunas contribuciones a proyectos de código abierto.</p>
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y la tecnología, y me encanta explorar nuevas ideas y desafíos. Aquí encontrarás una variedad de proyectos en los que he estado trabajando y algunas contribuciones a proyectos de código abierto.
 
-  <h2>Sobre mí</h2>
+## Sobre mí
 
-  <ul>
-    <li>🔭 Actualmente estoy trabajando en [tu empresa/proyecto actual]</li>
-    <li>🌱 Estoy aprendiendo [tecnología/idioma/framework actual]</li>
-    <li>💬 Pregúntame sobre cualquier cosa relacionada con [tu especialidad/área de interés]</li>
-    <li>📫 Cómo contactarme: [correo electrónico o redes sociales]</li>
-  </ul>
+- 🔭 Actualmente estoy trabajando en [tu empresa/proyecto actual]
+- 🌱 Estoy aprendiendo [tecnología/idioma/framework actual]
+- 💬 Pregúntame sobre cualquier cosa relacionada con [tu especialidad/área de interés]
+- 📫 Cómo contactarme: [correo electrónico o redes sociales]
 
-  <h2>Mis habilidades</h2>
+## Mis habilidades
 
-  <ul>
-    <li>💻 Lenguajes de programación: [lista de lenguajes que dominas]</li>
-    <li>🌐 Tecnologías web: [HTML, CSS, JavaScript, etc.]</li>
-    <li>📱 Desarrollo móvil: [Android, iOS, etc.]</li>
-    <li>🛠️ Herramientas y frameworks: [lista de herramientas y frameworks que utilizas]</li>
-    <li>📊 Bases de datos: [SQL, MongoDB, etc.]</li>
-    <li>⚙️ Otros: [otras habilidades relevantes]</li>
-  </ul>
+- 💻 Lenguajes de programación: [lista de lenguajes que dominas]
+- 🌐 Tecnologías web: [HTML, CSS, JavaScript, etc.]
+- 📱 Desarrollo móvil: [Android, iOS, etc.]
+- 🛠️ Herramientas y frameworks: [lista de herramientas y frameworks que utilizas]
+- 📊 Bases de datos: [SQL, MongoDB, etc.]
+- ⚙️ Otros: [otras habilidades relevantes]
 
-  <h2>Proyectos destacados</h2>
+## Proyectos destacados
 
-  <ul>
-    <li><strong>Nombre del proyecto</strong>: Breve descripción del proyecto y sus principales características.</li>
-    <li><strong>Nombre del proyecto</strong>: Breve descripción del proyecto y sus principales características.</li>
-    <li><strong>Nombre del proyecto</strong>: Breve descripción del proyecto y sus principales características.</li>
-  </ul>
+- [Nombre del proyecto]: Breve descripción del proyecto y sus principales características.
+- [Nombre del proyecto]: Breve descripción del proyecto y sus principales características.
+- [Nombre del proyecto]: Breve descripción del proyecto y sus principales características.
 
-  <p>Puedes encontrar más detalles sobre mis proyectos en mi <a href="[enlace a tu sitio web/portfolio]">sitio web/portfolio</a> personal.</p>
+Puedes encontrar más detalles sobre mis proyectos en mi [sitio web/portfolio] personal.
 
-  <h2>Contribuciones a proyectos de código abierto</h2>
+## Contribuciones a proyectos de código abierto
 
-  <ul>
-    <li><strong>Nombre del proyecto</strong>: Descripción de tu contribución y el impacto que tuvo.</li>
-    <li><strong>Nombre del proyecto</strong>: Descripción de tu contribución y el impacto que tuvo.</li>
-    <li><strong>Nombre del proyecto</strong>: Descripción de tu contribución y el impacto que tuvo.</li>
-  </ul>
+- [Nombre del proyecto]: Descripción de tu contribución y el impacto que tuvo.
+- [Nombre del proyecto]: Descripción de tu contribución y el impacto que tuvo.
+- [Nombre del proyecto]: Descripción de tu contribución y el impacto que tuvo.
 
-  <p>Siempre estoy interesado/a en colaborar en proyectos emocionantes y aprender de otros desarrolladores talentosos. Si tienes alguna idea o propuesta, ¡no dudes en <a href="[enlace de contacto]">contactarme</a>!</p>
+Siempre estoy interesado/a en colaborar en proyectos emocionantes y aprender de otros desarrolladores talentosos. Si tienes alguna idea o propuesta, ¡no dudes en contactarme!
 
-  <h2>Estadísticas de GitHub</h2>
+## Estadísticas de GitHub
 
-  <img src="https
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true)
+
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos. Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. ¡Hasta pronto!
