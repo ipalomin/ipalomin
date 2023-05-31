@@ -18,9 +18,6 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y la
 
 ## Proyectos destacados
 
-- [Nombre del proyecto]: Breve descripción del proyecto y sus principales características.
-- [Nombre del proyecto]: Breve descripción del proyecto y sus principales características.
-- [Nombre del proyecto]: Breve descripción del proyecto y sus principales características.
 
 Puedes encontrar más detalles sobre mis proyectos en mi [sitio web/portfolio] personal.
 
