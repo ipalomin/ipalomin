@@ -1,24 +1,18 @@
-# ¡Hola! 👋 Soy Ignacio Palominos
-
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y la tecnología, y me encanta explorar nuevas ideas y desafíos. Aquí encontrarás una variedad de proyectos en los que he estado trabajando y algunas contribuciones a proyectos de código abierto.
-
-## Sobre mí
-
-- 🔭 Actualmente estoy trabajando en Coasin Logicalis.
-- 🌱 Estoy aprendiendo Python/Machine Learning/DJANGO
-- 💬 Pregúntame sobre cualquier cosa relacionada con Soporte informatico/Python
-- 📫 Cómo contactarme: ipalomin@gmail.com https://www.linkedin.com/in/ignacio-alfonso-palominos-maldonado-2b8a75226/
-
-## Mis habilidades
-
-- 💻 Lenguajes de programación: [Python]
-- 🌐 Tecnologías web: [HTML, CSS, JavaScript, etc.]
-- 🛠️ Herramientas y frameworks: [DJANGO]
-- 📊 Bases de datos: [SQL, MongoDB, MySQLetc.]
-
-## Proyectos destacados
+# 💫 About Me:
+# ¡Hola! 👋 Soy Ignacio Palominos<br><br>Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y la tecnología, y me encanta explorar nuevas ideas y desafíos. Aquí encontrarás una variedad de proyectos en los que he estado trabajando y algunas contribuciones a proyectos de código abierto.<br><br>## Sobre mí<br><br>- 🔭 Actualmente estoy trabajando en Coasin Logicalis.<br>- 🌱 Estoy aprendiendo Python/Machine Learning/DJANGO<br>- 💬 Pregúntame sobre cualquier cosa relacionada con Soporte informatico/Python<br>- 📫 Cómo contactarme: ipalomin@gmail.com https://www.linkedin.com/in/ignacio-alfonso-palominos-maldonado-2b8a75226/<br><br>## Mis habilidades<br><br>- 💻 Lenguajes de programación: [Python]<br>- 🌐 Tecnologías web: [HTML, CSS, JavaScript, etc.]<br>- 🛠️ Herramientas y frameworks: [DJANGO]<br>- 📊 Bases de datos: [SQL, MongoDB, MySQLetc.]<br><br>## Proyectos destacados<br><br><br>Puedes encontrar más detalles sobre mis proyectos en mi [sitio web/portfolio] personal.<br><br>¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos. Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. ¡Hasta pronto!<br>
 
 
-Puedes encontrar más detalles sobre mis proyectos en mi [sitio web/portfolio] personal.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ ignacio-alfonso-palominos-maldonado-2b8a75226) 
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos. Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. ¡Hasta pronto!
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ipalomin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ipalomin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ipalomin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ipalomin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
